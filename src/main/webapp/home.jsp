@@ -31,7 +31,7 @@
 				<input type="submit">
 	</form>
 
-<br><h2>Spring Boot | Data JPA | MVC | MySql | Query Methods Example</h2>
+<br><h2>Hi Springboot !! Spring Boot | Data JPA | MVC | MySql | Query Methods Example</h2>
 
 <form action="findByEmailID">
 Lan ID <input type="text" name="lanid">
